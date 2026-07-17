@@ -90,12 +90,14 @@ Building intelligent systems that combine AI, WhatsApp, dashboards and business 
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Engineering Principles
 
-- Build production-ready SaaS products
-- Contribute to open source
-- Deepen AI engineering knowledge
-- Continue mastering modern frontend architecture
+- Build for maintainability.
+- Accessibility is not optional.
+- Performance is a feature.
+- Simplicity scales.
+- Great products start with great UX.
+- Ship, measure, iterate.
 
 ---
 
