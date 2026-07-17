@@ -4,7 +4,9 @@
 
 I design and ship fast, accessible web applications with a strong focus on UX, performance and clean architecture. Currently building SaaS products that automate real business operations, from AI receptionists on WhatsApp to developer tooling.
 
-[Portfolio](https://juan-urrego-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/juanpurr) · [Email](mailto:juanpurr1002@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://juan-urrego-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanpurr)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:juanpurr1002@gmail.com)
 
 
 
