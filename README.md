@@ -104,7 +104,7 @@ Building intelligent systems that combine AI, WhatsApp, dashboards and business 
 ## 🤝 Let's Connect
 
 🌐 Portfolio  
-https://portafoliodejuanpablo.vercel.app/
+https://juan-urrego-portfolio.vercel.app/
 
 💼 LinkedIn  
 www.linkedin.com/in/juanpurr
