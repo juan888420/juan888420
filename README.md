@@ -101,11 +101,14 @@ Building intelligent systems that combine AI, WhatsApp, dashboards and business 
 
 ## 🤝 Let's Connect
 
-Portfolio
+🌐 Portfolio  
+https://portafoliodejuanpablo.vercel.app/
 
-LinkedIn
+💼 LinkedIn  
+www.linkedin.com/in/juanpurr
 
-Email
+📧 Email  
+juanpurr1002@gmail.com
 
 Thanks for visiting my profile!
 
