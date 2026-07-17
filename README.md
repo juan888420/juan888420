@@ -6,6 +6,8 @@ I design and ship fast, accessible web applications with a strong focus on UX, p
 
 [Portfolio](https://juan-urrego-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/juanpurr) · [Email](mailto:juanpurr1002@gmail.com)
 
+https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white
+
 ---
 
 ## Featured Work
